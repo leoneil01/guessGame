@@ -4,6 +4,10 @@
     {
         string secretWord = "Hello", guess = "";
 
-
+        while (guess != secretWord)
+        {
+            Console.Write("Enter guess: ");
+            guess = Console.ReadLine();
+        }
     }
 }

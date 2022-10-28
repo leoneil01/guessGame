@@ -4,6 +4,7 @@
     {
         string secretWord = "Hello", guess = "";
         int guessCount = 0;
+        int guessLimit = 3;
 
         while (guess != secretWord)
         {

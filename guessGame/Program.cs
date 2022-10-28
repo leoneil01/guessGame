@@ -7,7 +7,7 @@
         int guessLimit = 3;
         bool noMoreGuesses = false;
 
-        while (guess != secretWord)
+        while (guess != secretWord && !noMoreGuesses)
         {
             if (guessCount < guessLimit)
             {

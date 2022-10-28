@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\bin\Debug\net6.0\guessGame.exe
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\bin\Debug\net6.0\guessGame.deps.json
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\bin\Debug\net6.0\guessGame.runtimeconfig.json
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\bin\Debug\net6.0\guessGame.dll
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\bin\Debug\net6.0\guessGame.pdb
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\obj\Debug\net6.0\guessGame.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\obj\Debug\net6.0\guessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\obj\Debug\net6.0\guessGame.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\obj\Debug\net6.0\guessGame.AssemblyInfo.cs
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\obj\Debug\net6.0\guessGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\obj\Debug\net6.0\guessGame.dll
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\obj\Debug\net6.0\refint\guessGame.dll
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\obj\Debug\net6.0\guessGame.pdb
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\obj\Debug\net6.0\guessGame.genruntimeconfig.cache
+C:\Users\admin\Documents\Custom Office Templates\C#\guessGame\guessGame\obj\Debug\net6.0\ref\guessGame.dll

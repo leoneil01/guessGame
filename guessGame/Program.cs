@@ -3,6 +3,7 @@
     static void Main(string[]args)
     {
         string secretWord = "Hello", guess = "";
+        int gueesCount = 0;
 
         while (guess != secretWord)
         {

@@ -5,6 +5,7 @@
         string secretWord = "Hello", guess = "";
         int guessCount = 0;
         int guessLimit = 3;
+        bool noMoreGuesses = false;
 
         while (guess != secretWord)
         {

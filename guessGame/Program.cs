@@ -9,5 +9,6 @@
             Console.Write("Enter guess: ");
             guess = Console.ReadLine();
         }
+        Console.WriteLine("You win!");
     }
 }

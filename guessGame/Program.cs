@@ -9,9 +9,12 @@
 
         while (guess != secretWord)
         {
-            Console.Write("Enter guess: ");
-            guess = Console.ReadLine();
-            guessCount++;
+            if (guessCount < guessLimit)
+            {
+                Console.Write("Enter guess: ");
+                guess = Console.ReadLine();
+                guessCount++;
+            }
         }
         Console.WriteLine("You win!");
     }

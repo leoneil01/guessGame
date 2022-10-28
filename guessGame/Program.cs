@@ -20,6 +20,13 @@
                 noMoreGuesses = true;
             }
         }
-        Console.WriteLine("You win!");
+        if (noMoreGuesses)
+        {
+            Console.WriteLine("Try again. You lose");
+        }
+        else
+        {
+            Console.WriteLine("You win!");
+        }
     }
 }

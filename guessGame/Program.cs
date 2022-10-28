@@ -15,6 +15,10 @@
                 guess = Console.ReadLine();
                 guessCount++;
             }
+            else
+            {
+                noMoreGuesses = true;
+            }
         }
         Console.WriteLine("You win!");
     }
